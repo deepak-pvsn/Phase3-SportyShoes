@@ -1,1 +1,31 @@
+Êþº¾   3 -  org/sporty_shoes/model/Admin  java/lang/Object  java/io/Serializable serialVersionUID J 
+ConstantValue        email Ljava/lang/String; RuntimeInvisibleAnnotations LId; password <init> ()V Code  java/lang/Error Unresolved compilation problems: 
+	The import javax.persistence cannot be resolved
+	The import javax.persistence cannot be resolved
+	The import javax.persistence cannot be resolved
+	Entity cannot be resolved to a type
+	Table cannot be resolved to a type
+	Id cannot be resolved to a type
 
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this Lorg/sporty_shoes/model/Admin; '(Ljava/lang/String;Ljava/lang/String;)V getEmail ()Ljava/lang/String; # !Unresolved compilation problem: 
+ setEmail getPassword setPassword toString 
+SourceFile 
+Admin.java LEntity; LTable; name !          	    
+   
+            
+           4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+        !     4     
+» Y"· ¿                   
+      $      4     
+» Y"· ¿           #        
+      % !     4     
+» Y"· ¿           '        
+      &      4     
+» Y"· ¿           +        
+      ' !     4     
+» Y"· ¿           0        
+      (    )    
+  *   +  
